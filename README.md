@@ -2,6 +2,8 @@
 
 ![Airport](air.PNG)
 
+<a href="#" class="button pill">Python</a>, <a href="#" class="button pill">NumPy</a>, <a href="#" class="button pill">Pandas</a>, <a href="#" class="button pill">Seaborn</a>, <a href="#" class="button pill">Matplotlib</a>, <a href="#" class="button pill">Tkinter</a>, <a href="#" class="button pill">Pyplot</a>, <a href="#" class="button pill">Jupiter Notebook</a>
+
 ### Purpose: 
 
 Design and implement program for real-world problems.
@@ -33,7 +35,10 @@ errors, missing values and any specific changes required by the client.
 ● A graphical user interface(s) for interacting with the data that enables the user to:
   1. Load and clean an initial data set (from the CV format)
   2. Load and save a prepared data set (from its translated format)
-  3. Use the prepared data set to generate output and visualisations
-  4. Manipulate the range of values used to generate output and visualisations
+  4. Use the prepared data set to generate output and visualisations
+  5. Manipulate the range of values used to generate output and visualisations
+
+
+
   
 
